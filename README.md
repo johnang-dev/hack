@@ -3,6 +3,7 @@ Hacktoberfest is open to everyone in our global community. Whether you’re a de
 
 ## Contributors
 - .[John](https://github.com/johnang-dev)
+- .[Tomas](https://github.com/tomassirio)
 
 [English rules](./CONTRIBUTING.md)
 
